@@ -1,2 +1,2 @@
-# Plotting
-Study about visualization with Matplotlib and Seaborn 
+# Matplotlib Seaborn Tutorial
+Visualization work with Matplotlib and Seaborn 

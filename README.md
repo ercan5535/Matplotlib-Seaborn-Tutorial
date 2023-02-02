@@ -1,2 +1,2 @@
 # Plotting
-Matplotlib and Seaborn works
+Study about visualization with Matplotlib and Seaborn 
